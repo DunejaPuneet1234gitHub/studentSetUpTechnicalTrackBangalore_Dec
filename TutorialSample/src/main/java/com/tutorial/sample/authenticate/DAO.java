@@ -26,7 +26,7 @@ public class DAO{
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("method of the getUser_byName is called");
+		System.out.println("method of the getUser_byName is called --->");
 		return null;
 	}
 
